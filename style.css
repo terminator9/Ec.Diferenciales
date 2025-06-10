@@ -1,0 +1,26 @@
+/* Centrado del contenedor principal */
+.container {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Estilo personalizado para la tabla */
+.table {
+    font-size: 0.95rem;
+}
+
+/* Mejora del footer */
+footer {
+    border-top: 3px solid #2ecc71;
+}
+
+/* Mejora el espacio alrededor de los títulos */
+h2, h3 {
+    margin-top: 40px;
+}
+
+/* Padding adicional si hay navbar fija */
+body {
+    padding-top: 20px;
+}
